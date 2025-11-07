@@ -1,4 +1,4 @@
-# Univariate Time Series – TD1  
+# ARMA Process Simulation and Stationarity Analysis  
 *R-based analysis of ARMA process stationarity and autocorrelation patterns.*
 
 ---
