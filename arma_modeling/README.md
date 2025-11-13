@@ -1,4 +1,4 @@
-# TD2 – ARMA Modeling  
+# ARMA Modeling  
 *A practical study of autoregressive and moving average models applied to financial time series.*
 
 ---
@@ -99,14 +99,19 @@ For theoretical background:
 ---
 
 ## 📜 License
-> À compléter  
+This project is released under the **MIT License**.  
+© 2025 Arthur Ernoult de La Provôté and Florian Crochet 
 
 ---
 
-## 👤 Author
-**Arthur Ernoult & Florian Crochet**  
-*Master 1 ECAP – Econometrics and Statistics, University of Nantes*  
-📫 > À compléter  
+## 👤 Authors
+**Arthur Ernoult de La Provôté**  
+[GitHub Profile](https://github.com/ArthurEDLP)  
+
+**Florian Crochet**  
+[GitHub Profile](https://github.com/floriancrochet)
+
+*Master 1 – Econometrics & Statistics, Applied Econometrics Track*
 
 ---
 
