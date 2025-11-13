@@ -1,4 +1,4 @@
-# TD4 – Analysis of Non-Stationarity and Unit Roots  
+# Analysis of Non-Stationarity and Unit Roots  
 *An applied R-based study of time series stationarity, stochastic trends, and spurious regression.*
 
 ---
@@ -112,14 +112,17 @@ For theoretical background:
 
 ## 📜 License
 This project is released under the **MIT License**.  
-© 2025 Florian Crochet & Achille Marteret
+© 2025 Achille Marteret and Florian Crochet
 
 ---
 
 ## 👤 Author
-**Florian Crochet** & **Achille Marteret**  
-*M1 ECAP – Université de Nantes*  
-📫 > À compléter (LinkedIn / Email)
+**Achille Marteret**  
+
+**Florian Crochet**  
+[GitHub Profile](https://github.com/floriancrochet)
+
+*Master 1 – Econometrics & Statistics, Applied Econometrics Track* 
 
 ---
 
