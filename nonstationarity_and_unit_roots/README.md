@@ -116,7 +116,7 @@ This project is released under the **MIT License**.
 
 ---
 
-## 👤 Author
+## 👤 Authors
 **Achille Marteret**  
 
 **Florian Crochet**  
