@@ -1,6 +1,8 @@
 # ARMA Modeling  
 *A practical study of autoregressive and moving average models applied to financial time series.*
 
+[**ARMA Modeling Report**](https://drive.google.com/file/d/1f8RKfl2IlKWku6SDho6zXx6anQDJXRU7/view?usp=drive_link)
+
 ---
 
 ## 📘 Overview
