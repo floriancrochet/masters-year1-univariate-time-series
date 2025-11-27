@@ -1,6 +1,8 @@
 # ARMA Process Simulation and Stationarity Analysis  
 *R-based analysis of ARMA process stationarity and autocorrelation patterns.*
 
+[**Stochastic Processes Report**](https://drive.google.com/file/d/1ermB-n0d533Lh_V_2GMQBygR_mn3Ufyp/view?usp=drive_link)
+
 ---
 
 ## 📘 Overview
