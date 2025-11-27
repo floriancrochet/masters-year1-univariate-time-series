@@ -1,6 +1,8 @@
 # Seasonal Time Series Modeling  
 *Simulation and estimation of SARMA/SARIMA models with seasonal behavior in R.*
 
+[**Seasonality Modeling Report**](https://drive.google.com/file/d/1NW7GhvEW0F0v9NsUJB1jogwmfjpTEsls/view?usp=drive_link)
+
 ---
 
 ## 📘 Overview
