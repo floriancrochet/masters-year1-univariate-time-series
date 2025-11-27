@@ -3,6 +3,20 @@
 
 ---
 
+## 📄 Project Reports (PDF – Online Access)
+
+Each report addresses a specific pillar of univariate time series econometrics, combining theoretical foundations, simulation, and applied empirical analysis.
+
+| Topic | Description |
+|-------|-------------|
+| [**ARMA Modeling**](https://drive.google.com/file/d/1f8RKfl2IlKWku6SDho6zXx6anQDJXRU7/view?usp=drive_link) | Estimation and comparison of AR and ARMA models on CAC40 returns using OLS and maximum likelihood, with model selection based on AIC/BIC and diagnostic validation via Ljung–Box and Bartlett tests. |
+| [**Forecast Evaluation**](https://drive.google.com/file/d/1ALjuejyp1zKzP5QCd0AS1U_dGtCqBv3R/view?usp=drive_link) | Rolling-window evaluation of AR(1) forecasting models for wheat futures returns, benchmarked against random walk models using Mincer–Zarnowitz and Diebold–Mariano tests across multiple horizons. |
+| [**Unit Root Analysis**](https://drive.google.com/file/d/1QmdBvLZ--e_MzTy0FGoOjPMDLxj6cd3l/view?usp=drive_link) | Monte Carlo exploration of stochastic trends, unit roots, and spurious regressions, distinguishing deterministic vs stochastic non-stationarity and applied to U.S. GDP data via Dickey–Fuller and KPSS testing. |
+| [**Seasonality Modeling**](https://drive.google.com/file/d/1NW7GhvEW0F0v9NsUJB1jogwmfjpTEsls/view?usp=drive_link) | Simulation and estimation of SARMA/SARIMA models applied to gas consumption and airport traffic data, with model comparison based on residual diagnostics, AIC/BIC, and seasonal structure validation. |
+| [**Stochastic Processes**](https://drive.google.com/file/d/1ermB-n0d533Lh_V_2GMQBygR_mn3Ufyp/view?usp=drive_link) | Analytical and simulated study of AR, MA, and ARMA processes emphasizing stationarity conditions, characteristic roots, and interpretation of ACF/PACF structures under the lag operator framework. |
+
+---
+
 ## 📘 Overview
 This project consolidates multiple academic works developed within the **M1 ECAP Econometrics & Statistics** program at the University of Nantes (2024–2025). It provides a comprehensive framework for **modeling, simulating, diagnosing, and forecasting financial and economic time series** using rigorous econometric methodology.
 
